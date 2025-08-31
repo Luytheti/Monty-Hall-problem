@@ -2,7 +2,7 @@ import random
 
 def simulate_monty_hall(num_doors, num_simulations):
     """
-    Simulates the Monty Hall problem for a given number of doors
+    Simulates the Monty Hall problem for a given number of doors .
 
     Args:
         num_doors (int): The total number of doors in the game.
@@ -125,4 +125,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
